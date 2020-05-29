@@ -1,9 +1,9 @@
 # netcalc
-### _Your Name <your.name@example.com>_
+### _Benjámin J. Ferge <benjamin.ferge@protonmail.com>_
 
-This is a project to do ... something.
+Netcalc is a CLI program for performing network related calculations.
 
 ## License
 
-Specify license here
+MIT
 
